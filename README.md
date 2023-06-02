@@ -1,2 +1,3 @@
 # odin-recipes
-test on knowledge
+Hope to build a decent page using all that ive learned from theodin project
+
