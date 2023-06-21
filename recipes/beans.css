@@ -1,0 +1,13 @@
+h2 {
+  font-weight: 800;
+  color: pink;
+  text-align: center;
+}
+p {
+  color: white;
+  background-color: black;
+}
+img {
+  width:450px ;
+  height: 300px;
+}

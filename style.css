@@ -1,0 +1,14 @@
+div {
+  text-align: center;
+  color: red;
+  font: arial;
+  font-weight: bold;
+  font-size: 50px;
+}
+h1 {
+  color: red;
+}
+* {
+  border-block-color: green;
+  border: 500px;
+}
